@@ -1,0 +1,2 @@
+# pac
+{   "name": "twitch-bot",   "version": "1.0.0",   "main": "bot.js",   "scripts": {     "start": "node bot.js"   },   "dependencies": {     "tmi.js": "^1.8.5",     "express": "^4.18.2"   } }
